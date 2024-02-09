@@ -1,7 +1,4 @@
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-<img
-src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+𝗖𝗢𝗗𝗘𝗫+𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥+🖤"></b></h3>▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
-
 
 <h3><img  style="align-item" :"center" src="https://telegra.ph/file/d6bf2f73ea19d41a1351d.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=🦋+𝗖𝗢𝗗𝗘𝗫+𝗦𝗘𝗦𝗦𝗜𝗢𝗡+𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗢𝗥+🖤"></b></h3>
 
