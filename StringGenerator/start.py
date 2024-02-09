@@ -18,8 +18,6 @@ async def start(bot: Client, msg: Message):
 
 ⧉  𝖠 𝖲ᴛʀɪɴɢ 𝖲ᴇssɪᴏɴ 𝖡ᴏᴛ ᴛᴏ 𝖧ᴇʟᴘ ᴜ 𝖢ʀᴇᴀᴛᴇ 𝖠ɴʏ 𝖳ʏᴘᴇ ᴏғ 𝖲ᴛʀɪɴɢ 𝖤ᴀsɪʟʏ.
 
-⧉ 𝖥ᴜʟʟʏ 𝖳ʀᴜsᴛᴇᴅ, 𝖲ᴀғᴇ & 𝖲ᴇᴄᴜʀᴇ 𝖡ᴏᴛ ᴛᴏ 𝖦ᴇɴᴇʀᴀᴛᴇ 𝖸ᴏᴜʀ 𝖲ᴛʀɪɴɢ 𝖲ᴇssɪᴏɴs.
-
 ⧉ 𝖳ᴀᴘ ᴏɴ 𝖦ᴇɴᴇʀᴀᴛᴇ 𝖲ᴇssɪᴏɴ 𝖡ᴜᴛᴛᴏɴ ᴛᴏ 𝖦ᴇɴᴇʀᴀᴛᴇ 𝖸ᴏᴜʀ 𝖲ᴇssɪᴏɴ📄.""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -27,8 +25,8 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton(text="👻 𝐆ᴇɴᴇʀᴀᴛᴇ 𝐒ᴇssɪᴏɴ 👻", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("🔎 sᴜᴘᴘᴏʀᴛ 🔍", url="https://t.me/TitanXSupport"),
-                    InlineKeyboardButton("🏴‍☠ ɴᴇᴛᴡᴏʀᴋ 🏴‍☠", url="https://t.me/TitanNetwrk")
+                    InlineKeyboardButton("🔎 sᴜᴘᴘᴏʀᴛ 🔍", url="https://tme/GLACEON_CHATS"),
+                    InlineKeyboardButton("🏴‍☠ ɴᴇᴛᴡᴏʀᴋ 🏴‍☠", url="https://t.me/The_Glaceon")
                 ]
             ]
         ),
