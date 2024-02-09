@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://t.me/"><img src="https://telegra.ph/file/86035f270809e39126c65.jpg" width="600"></a></p>
 <img 
-▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
+src="▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭">
 
 
              ─「 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 」─      
